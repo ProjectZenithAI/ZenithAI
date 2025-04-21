@@ -24,6 +24,6 @@ document.getElementById('downloadBtn').addEventListener('click', function () {
 
     // Redirect after animation
     setTimeout(() => {
-        window.location.href = 'https://github.com/ProjectZenithAI/ZenithAI/blob/main/ZenithAI-v1.4.apk?raw=true';
+        window.location.href = 'https://github.com/ProjectZenithAI/ZenithAI/blob/main/ZenithAI-v1.4.1.apk?raw=true';
     }, 1000);
 }); 
